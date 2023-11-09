@@ -2,13 +2,11 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=27kanghan&show_icons=true&theme=radical)
-
 ## 📞 Contact 📞
 ---
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:kwonbe99@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <a href="mailto:27kanghan@naver.com">
+       <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
     </a>
     <a href="https://open.kakao.com/o/sGFzzbsf">
         <img src="https://img.shields.io/badge/
@@ -20,12 +18,13 @@
     </a>
 
 ### 🔨 Once I`ve used 🔨
+---
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
