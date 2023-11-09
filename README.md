@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Han's%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ---
-![han's GitHub stats](https://github-readme-stats.vercel.app/api?username=27kanghan&show_icons=true&theme=radical)
-
 
 <div style="display:flex; flex-direction:row;">
 <a href="https://www.instagram.com/9k_han6/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -42,6 +40,4 @@
     <div>
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
-   
-    <br>
 </div>
