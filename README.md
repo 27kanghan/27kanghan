@@ -23,7 +23,7 @@
     </div>
     <p><strong>A.I</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/pytorch-6DB33F?style=for-the-badge&logo=pytorch&logoColor=white">
+        <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
     </div>
     <p><strong>DataBase</strong></p>
     <div>
@@ -33,7 +33,7 @@
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-        <img src="https://img.shields.io/badge/githubactions-#2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
+        <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
         <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> 
     </div>
     <p><strong>Front-End</strong></p>
