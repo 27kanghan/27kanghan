@@ -18,8 +18,10 @@
     <p><strong>Back-End</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     </div>
+    <p><strong>A.I</strong></p>
     <p><strong>DataBase</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -27,8 +29,8 @@
     </div>   
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/githubactions-#2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
         <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> 
     </div>
     <p><strong>Front-End</strong></p>
